@@ -22,3 +22,4 @@ TODO
 *.njsproj
 *.sln
 *.sw?
+.dist
